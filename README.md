@@ -1,2 +1,3 @@
-this is a project to learn git
 
+this is a project to learn git
+Changes from a new branch
